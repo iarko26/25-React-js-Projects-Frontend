@@ -20,3 +20,11 @@ button {
   font-size: 16px;
   cursor: pointer;
 }
+.light button {
+  background-color: #333333;
+  color: #ffffff;
+}
+.dark button{
+  background-color: #ffffff;
+  color: #333333;
+}

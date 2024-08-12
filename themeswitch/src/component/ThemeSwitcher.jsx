@@ -6,7 +6,7 @@ function ThemeSwitcher() {
 
   return (
     <div>
-    <button onClick={changeTheme}>
+    <button onClick={changeTheme} >
      Change Theme  
      
     </button>
