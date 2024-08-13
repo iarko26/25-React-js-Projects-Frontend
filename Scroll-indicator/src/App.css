@@ -1,0 +1,29 @@
+.top-container{
+  position: fixed;
+  top:0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background-color: green;
+  
+
+
+}
+.scroll-indicator{
+  width: 100%;
+  height: 10px;
+  background-color: blue;
+
+}
+.current-scroll{
+  height: 10px;
+  background-color: red;
+  width: 0;
+}
+.container{
+ padding-top: 90px;
+ display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column  ;
+}
